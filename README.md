@@ -3,9 +3,12 @@ EasyLoot
 
 Addon for WoW 1.12 clients to simplify loot distribution.
 
+
 Usage:
-/loot <ITEMLINK>
-/rr <ITEMLINK>
+```
+/loot ITEMLINK
+/rr ITEMLINK
+ ```
 
 Argument for /rr is optional, argument for /loot is mandatory.
 
