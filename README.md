@@ -5,12 +5,8 @@ Addon for WoW 1.12 clients to simplify loot distribution.
 
 
 Usage:
-```
-/loot ITEMLINK
-/rr ITEMLINK
- ```
-
-Argument for /rr is optional, argument for /loot is mandatory.
+- ```/loot ITEMLINK``` Starts a cooldown in raid chat.
+- ```/rr ITEMLINK``` Raidrolls an item, argument is optional
 
 Changelog:
 - added raid roll
