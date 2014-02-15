@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: EasyLoot
+## Notes: Simplifies loot distribution
+## Author: Numielle
+## Version: 0.3
+## Dependencies:
+## SavedVariables: 
+EasyLoot.lua
